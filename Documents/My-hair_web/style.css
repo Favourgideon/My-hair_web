@@ -1,0 +1,28 @@
+
+       body{
+        background-color: bisque;
+    
+       }
+      h2{
+        text-align: center;
+        background-color: rgb(152, 177, 61);
+      }
+    .book{
+        text-align: end;
+    }
+   .picture{
+    width: 600px;
+    height: 500px;
+    
+   }
+   .our-services{
+    float: right;
+    color: aliceblue;
+   }
+   .follow{
+    float: center;
+   }
+   .click {
+    
+   }
+
